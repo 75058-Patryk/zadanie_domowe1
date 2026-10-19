@@ -1,0 +1,78 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Strona-1" id="KGn66T0HYTwWyb16jkGq">
+    <mxGraphModel dx="980" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l19hpV6UzXCUEchoyk7b-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;start&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l19hpV6UzXCUEchoyk7b-2" edge="1" parent="1" source="l19hpV6UzXCUEchoyk7b-1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=gap;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="240" as="sourcePoint" />
+            <mxPoint x="414" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l19hpV6UzXCUEchoyk7b-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;wprowadz a i b&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="l19hpV6UzXCUEchoyk7b-4" edge="1" parent="1" source="l19hpV6UzXCUEchoyk7b-3" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=gap;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="240" as="sourcePoint" />
+            <mxPoint x="410" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l19hpV6UzXCUEchoyk7b-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;wprowadz a i b&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="l19hpV6UzXCUEchoyk7b-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;jezezeli a!=0&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="370" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="l19hpV6UzXCUEchoyk7b-7" edge="1" parent="1" source="l19hpV6UzXCUEchoyk7b-6" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=gap;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.36" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="350" />
+            </Array>
+            <mxPoint x="390" y="370" as="sourcePoint" />
+            <mxPoint x="560" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l19hpV6UzXCUEchoyk7b-8" connectable="0" parent="l19hpV6UzXCUEchoyk7b-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];defaultLabelBackgroundColor=gap;" value="&lt;div&gt;tak&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.254" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l19hpV6UzXCUEchoyk7b-9" edge="1" parent="1" source="l19hpV6UzXCUEchoyk7b-6" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=gap;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.3111" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="350" />
+            </Array>
+            <mxPoint x="390" y="370" as="sourcePoint" />
+            <mxPoint x="270" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l19hpV6UzXCUEchoyk7b-10" connectable="0" parent="l19hpV6UzXCUEchoyk7b-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];defaultLabelBackgroundColor=gap;" value="&lt;div&gt;nie&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.5956" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l19hpV6UzXCUEchoyk7b-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;koniec&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="210" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="l19hpV6UzXCUEchoyk7b-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="x=-b/a" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="l19hpV6UzXCUEchoyk7b-13" edge="1" parent="1" source="l19hpV6UzXCUEchoyk7b-12" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=gap;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="l19hpV6UzXCUEchoyk7b-11" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.786" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="560" />
+              <mxPoint x="270" y="560" />
+            </Array>
+            <mxPoint x="390" y="370" as="sourcePoint" />
+            <mxPoint x="270" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
