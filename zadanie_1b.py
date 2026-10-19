@@ -1,0 +1,5 @@
+print("1. int(3.0)",int(3.0),"oznacza zaokrąglenie do czesci całkowitych")
+print("2. float(3)",float(3.0),"oznacza zapisanie tej liczby w sposób zmiennoprzecinkowy")
+print("3. float(3)",float("3"),"oznacza zapisanie tej liczby w sposób zmiennoprzecinkowy za pomocą teksu")
+print("4. str(12.4)",str(12.4),"zapisuje liczbe jako tekst")
+print("5. bool(0)",bool(0),"opisuje zdazenie logiczne 0 fałsz 1 prawda")
